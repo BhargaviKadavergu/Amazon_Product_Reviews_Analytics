@@ -33,7 +33,7 @@ Seaborn
 Streamlit
 
 ## Run Notebook
-Open Amazon_Product_Reviews_Analytics.ipynb
+Open AmazonProductReviewsAnalyticsCapstoneProject.ipynb
 Run all cells.
 
 ## Run App
