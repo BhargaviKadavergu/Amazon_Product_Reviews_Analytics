@@ -40,4 +40,4 @@ Run all cells.
 streamlit run app.py
 
 Streamlit App Link
-https://amazonappuctreviewsanalytics-c6nakexxsdnfl6fbevajoe.streamlit.app/
+https://amazonappuctreviewsanalytics-xc7dlaedtevw68meoiztb3.streamlit.app/
